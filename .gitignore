@@ -41,3 +41,7 @@ testem.log
 .DS_Store
 Thumbs.db
 package-lock.json
+.vs/slnx.sqlite
+.vs/VSWorkspaceState.json
+.vs/manager/FileContentIndex/098efcd8-6f3a-45c4-bc5b-ded7f30c6081.vsidx
+.vs/manager/v17/.wsuo
